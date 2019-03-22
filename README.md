@@ -1,2 +1,2 @@
-# Kaggle-Python
-Use data analysis methods to analyze data files from Kaggle Website
+# Data Analysis-Python
+# All of the data analysis projects relating to use Python 
